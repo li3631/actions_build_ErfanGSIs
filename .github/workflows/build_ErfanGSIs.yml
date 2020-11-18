@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/9.7.22/miui_CEPHEUS_9.7.22_e73316ebc9_9.0.zip
+  ROM_URL: http://bigota.d.miui.com/20.1.2/whyred_images_20.1.2_20200102.0000.00_9.0_cn_27825d275b.tgz
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
