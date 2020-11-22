@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/9.9.3/miui_HM6_9.9.3_da134d01c5_9.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20200716193235/PCHM00_11_OTA_0550_all_rBJTVWIbBPzO.ozip
+  ROM_NAME: ColorOS
   TZ: Asia/Shanghai
 
 jobs:
