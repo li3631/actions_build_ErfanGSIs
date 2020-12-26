@@ -13,8 +13,8 @@ on:
   watch:
     types: [started]
     
-env: https://bigota.d.miui.com/V11.0.14.0.QDLMIXM/miui_DAISYGlobal_V11.0.14.0.QDLMIXM_7c2e1a2bc7_10.0.zip
-  ROM_URL: 
+env:
+  ROM_URL: https://bigota.d.miui.com/V11.0.14.0.QDLMIXM/miui_DAISYGlobal_V11.0.14.0.QDLMIXM_7c2e1a2bc7_10.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
