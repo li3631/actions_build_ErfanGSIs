@@ -61,7 +61,7 @@ jobs:
        - name: Upload GSI to BitSend
          run: |
               curl -sL https://git.io/file-transfer | sh
-              ./transfer lzs --cookie='phpdisk_info=V2JeawxnBzwPPQBpDmcEVwdjDAdeNl0%2BBzMJaldoBjIAMQc3BmUNMVRuUwoKaVszBzUGPVthVzQObwdvUDNQM1c1XmQMOAc6D2kANA5kBGwHNgxtXjFdOAcyCWtXZgY0ADEHNAZiDTRUM1NlCllbMAdjBjNbMVc5DjsHYlBkUGNXY15k; folder_id_c=2793951 ;' file final/GSI.zip
+              ./transfer arp final/GSI.zip
 
          
             
