@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.6.0.QJCCNXM/miui_LANCELOT_V12.0.6.0.QJCCNXM_33a88e092b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20200716192221/PCHM10_11_OTA_0550_all_b4ZDE8RZUOPO.ozip
+  ROM_NAME: ColorOS
   TZ: Asia/Shanghai
 
 jobs:
@@ -61,7 +61,7 @@ jobs:
        - name: Upload GSI to BitSend
          run: |
               curl -sL https://git.io/file-transfer | sh
-              ./transfer gof final/GSI.zip
+              ./transfer wet final/GSI.zip
 
          
             
