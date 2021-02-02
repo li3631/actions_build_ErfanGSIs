@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20200716192221/PCHM10_11_OTA_0550_all_b4ZDE8RZUOPO.ozip
-  ROM_NAME: ColorOS
+  ROM_URL: https://ip4014488682.mobgslb.tbcache.com/Firmware/Flyme/note9/8.1.5.0/cn/20200911100730/1ab212fa/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=fcfc34ae0adec98bdf65b8220fea1a306bda651d0245bfad&ali_redirect_ex_tmining_ts=1612249114&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
