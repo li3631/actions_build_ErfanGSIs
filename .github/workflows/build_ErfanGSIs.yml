@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.2.0.QCMCNXM/miui_PINE_V12.0.2.0.QCMCNXM_9746088850_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://downloads.droidontime.com/dot11/oneplus3/vanilla/dotOS-R-v5.0.0-oneplus3-OFFICIAL-20210213-0420.zip
+  ROM_NAME: Generic
   TZ: Asia/Shanghai
 
 jobs:
