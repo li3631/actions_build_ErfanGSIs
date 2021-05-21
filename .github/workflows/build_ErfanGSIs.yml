@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.droidontime.com/dot11/oneplus3/vanilla/dotOS-R-v5.0.0-oneplus3-OFFICIAL-20210213-0420.zip
-  ROM_NAME: Generic
+  ROM_URL: https://bigota.d.miui.com/9.11.14/miui_MIMAX3_9.11.14_b66c17a7d4_9.0.zip
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
